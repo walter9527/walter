@@ -94,6 +94,7 @@ html,body {
 			<div class="grid-content">
 				<div id="gridbox"  style="width: 100%;height: 240px;"></div>
 			</div>
+			<input type="button" value="tick me"/>
 	</div>
 <script type="text/javascript">
 	// 初始化grid
